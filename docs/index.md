@@ -6,6 +6,8 @@
 
 ...
 
+[第八章 面向对象编程基础](./8-basic-object-oriented-programming)
+
 [第十二章 虚函数](./12-virtual-functions)
 
 [第十三章 模板](./13-templates)
