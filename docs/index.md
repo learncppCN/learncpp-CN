@@ -2,6 +2,8 @@
 
 原文请阅读 [learncpp.com](https://www.learncpp.com)
 
+翻译日记 [](./翻译日记)
+
 [第一章 介绍](./0-Introduction-getting-started)
 
 ...
