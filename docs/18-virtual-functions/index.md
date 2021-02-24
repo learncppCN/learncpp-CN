@@ -1,4 +1,4 @@
-# 第十二章 虚函数
+# 第十八章 虚函数
 
 - [18.1-指向派生类的基类指针和引用](./18.1-pointers-and-references-to-the-base-class-of-derived-objects.md)
 - [18.2-虚函数和多态](./18.2-virtual-functions-and-polymorphism copy.md)
